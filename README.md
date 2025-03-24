@@ -1,10 +1,10 @@
-### Hi there! 👋 I'm Vikas
+## Hi there! 👋 I'm Vikas
 
 Welcome to my GitHub profile! I'm a **React.js & Next.js Developer** with expertise in **Node.js, Express, MongoDB, and PostgreSQL**. I love building scalable web applications and enjoy working on challenging projects that push my skills to the next level.
 
 ---
 
-### 🚀 About Me:
+## 🚀 About Me:
 - 💼 Currently working at **Logichive Solutions Pvt Ltd**, where I honed my skills in full-stack development.
 - 🔨 Passionate about **React.js, Next.js, Express.js, and backend technologies**.
 - 📚 Constantly learning and exploring new tools and frameworks to improve my development workflow.
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **React.js & Next.js Developer** with expert
 
 ---
 
-### 🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 - **Frontend:** React.js, Next.js, JavaScript, TypeScript
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, PostgreSQL
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a **React.js & Next.js Developer** with expert
 
 ---
 
-### 🌟 What I Bring:
+## 🌟 What I Bring:
 ✔️ **Full-Stack Expertise** – I can build complete web apps from frontend to backend.  
 ✔️ **Optimized & Scalable Code** – I focus on writing clean, efficient, and scalable code.  
 ✔️ **Problem Solver** – Love tackling challenges and finding the best solutions.  
